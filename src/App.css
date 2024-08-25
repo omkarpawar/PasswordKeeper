@@ -1,0 +1,24 @@
+.form{
+  
+  width: 150%;
+  margin-top: 2%;
+  margin-left: 2%;
+}
+.passwordList{
+  margin-top: 2%;
+  width: 150%;
+  
+  margin-left: 2%;
+}
+
+.delete-btn{
+  margin-left:10%;
+}
+.createPassword{
+  display: flex;
+  
+}
+.password-keeper{
+  margin-top: 2%;
+  margin-left: 25%;
+}
